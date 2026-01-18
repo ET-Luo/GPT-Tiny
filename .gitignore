@@ -1,0 +1,20 @@
+# Data and artifacts
+data/**
+logs/**
+results/**
+checkpoints/**
+
+# Temporary and cache
+**/__pycache__/
+**/*.py[cod]
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+**/.cache/
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+

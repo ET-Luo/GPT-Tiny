@@ -1,0 +1,11 @@
+# GPT-Tiny: Minimal GPT-2 (124M) Reproduction
+# Install: pip install -r requirements.txt
+
+torch>=2.1.0
+transformers>=4.36.0
+tiktoken>=0.5.0
+numpy>=1.24.0
+tqdm
+wandb
+datasets
+
