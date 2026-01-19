@@ -36,3 +36,9 @@ echo "  Checkpoints: /home/qw765731/projects/GPT/GPT-Tiny/checkpoints -> /hpcwor
 echo "  HF Cache:    ~/.cache/huggingface -> /hpcwork/qw765731/cache/huggingface"
 
 
+
+
+
+
+
+
